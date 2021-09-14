@@ -1,0 +1,26 @@
+﻿@model ProjekatBanka.Models.Kartice
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Kartice</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TipKartice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TipKartice)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.IDKartice }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

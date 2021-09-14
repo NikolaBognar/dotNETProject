@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "ErsteBanka";
+}
+
+
+
+    <div class="jumbotron">
+        <h1>ErsteBanka</h1>
+        <p class="lead">
+            Erste Banka je 2005. godine kupila Novosadsku Banku, najstariju finansijsku instituciju u našoj zemlji, osnovanu 1864. godine.Naš fokus je na poslovanju sa stanovništvom, lokalnim zajednicama i malim i srednjim preduzećima.
+
+            Insistiramo na brzini i kvalitetu usluga, i na taj način doprinosimo vašem stabilnom i zdravom rastu.
+
+            Nastavljamo sa širenjem baze zadovoljnih klijenata i povećamo tržišno učešće u ključnim segmentima.
+
+            Pomeramo granice u oblastima elektronskog bankarstva i kartičarstva na finansijskom tržištu Srbije, i trudimo se da odgovorimo na sve vaše zahteve.
+        </p>
+        <h3>Kontakt</h3>
+        <p> Kneza Mihaila 39, Beograd, Srbija</p>
+        <p>011/ 303-7026 ,  <a href="https://www.erstebank.rs/sr/Stanovnistvo">erstebank.rs</a></p>
+
+        <p>Radno vreme</p>
+        <p>Radnim danima: 08:30-18:00</p>
+        <p>Subotom 09:00-13:00</p>
+        <p>Nedelja je neradni dan</p>
+        <p>
+            Erste bank na planu grada:
+            <a href="https://www.planplus.rs/erste-bank/12244">www.planplus.rs</a>
+        </p>
+        @*<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d718142.4838133407!2d19.22628767975244!3d45.323693514217844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475a7a98b0006f3b%3A0xaec37aa48f1d4e10!2sErste%20Bank!5e0!3m2!1sen!2srs!4v1591814321174!5m2!1sen!2srs" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>*@
+        <p>@Html.ActionLink("Podnesite zahtev za izradu kartice", "Index", "Kartices", new { area = "" }, new { @class = "btn btn-primary" })</p>
+    </div>

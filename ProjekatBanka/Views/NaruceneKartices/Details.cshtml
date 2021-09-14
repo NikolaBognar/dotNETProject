@@ -1,0 +1,34 @@
+﻿@model ProjekatBanka.Models.NaruceneKartice
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>NaruceneKartice</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Tip)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tip)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JMBG)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JMBG)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,62 @@
+﻿@*@model IEnumerable<ProjekatBanka.Models.Kartice>*@
+@using ProjekatBanka.Models;
+@using PagedList;
+@using PagedList.Mvc;
+@model PagedList.IPagedList<ProjekatBanka.Models.Kartice>
+
+@{
+    ViewBag.Title = "Kartice";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Lista kartica</h2>
+
+
+<table class="table" id="strip">
+    <tr class="table-info">
+        <th>
+            Naziv
+        </th>
+        <th colspan="2">
+            Tip kartice
+        </th>
+        <th colspan="2">
+            Opis
+        </th>
+
+    </tr>
+
+
+
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IDKartice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipKartice)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.IDKartice  }) |
+                @Html.ActionLink("Details", "Details", new { id=item.IDKartice }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.IDKartice })
+            </td>
+            <td>
+                @if (Session["JMBG"] == null)
+                {
+                    @Html.ActionLink("Naruči", "Login", "Klijents", new { area = "" }, new { @class = "btn btn-primary" })
+                }
+                else
+                {
+                    @Html.ActionLink("Naruči", "Rezervacija", "NaruceneKartices", new { id = item.IDKartice }, new { @class = "btn btn-primary" })
+                }
+            </td>
+        </tr>
+    }
+
+</table>
+<div>
+    @Html.PagedListPager(Model, strana => Url.Action("Home", new { strana = strana }))
+</div>

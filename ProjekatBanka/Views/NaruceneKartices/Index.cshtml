@@ -1,0 +1,54 @@
+﻿@*@model IEnumerable<ProjekatBanka.Models.NaruceneKartice>*@
+@using ProjekatBanka.Models;
+@using PagedList;
+@using PagedList.Mvc;
+@model PagedList.IPagedList<ProjekatBanka.Models.NaruceneKartice>
+@{
+    ViewBag.Title = "Profil";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Html.ActionLink("Promeni lične podatke", "Edit", "Klijents", new { id = (string)Session["JMBG"] }, new { @class = "btn btn-info" })
+<br />
+<br />
+
+<table class="table" id="strip">
+    <tr class="table-info">
+        <th>
+            Red br. narudzbe
+        </th>
+        <th colspan="2">
+            IDKartice
+        </th>
+        <th colspan="2">
+            Opis
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model.Where(i => i.JMBG == (string)Session["JMBG"]))
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.RedniBrojNarudzbe)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.IDKartice)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Tip)
+    </td>
+    @*<td>
+        @Html.DisplayFor(modelItem => item.JMBG)
+    </td>*@
+    @*<td>
+        @Html.ActionLink("Obriši rezervaciju", "Delete", "NaruceneKartices", new { id = item.RedniBrojNarudzbe }, new { @class = "btn btn-danger" })
+    </td>*@
+</tr>
+    }
+
+</table>
+
+<div>
+    @Html.PagedListPager(Model, strana => Url.Action("Index", new { strana = strana }))
+</div>

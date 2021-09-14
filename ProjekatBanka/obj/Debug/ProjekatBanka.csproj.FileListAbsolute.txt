@@ -1,0 +1,366 @@
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\ProjekatBanka.dll.config
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\ProjekatBanka.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\ProjekatBanka.pdb
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\csc.exe
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\csc.exe.config
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\csc.rsp
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\csi.exe
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\csi.exe.config
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\csi.rsp
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.AppContext.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Console.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Security.Claims.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\vbc.exe
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\vbc.exe.config
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\vbc.rsp
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Antlr3.Runtime.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Web.Helpers.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Web.Mvc.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Web.Optimization.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Web.Razor.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Web.WebPages.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\WebGrease.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Web.Helpers.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Web.Mvc.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Web.Optimization.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Web.Razor.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Web.WebPages.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Newtonsoft.Json.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Antlr3.Runtime.pdb
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\obj\Debug\ProjekatBanka.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\obj\Debug\ProjekatBanka.csproj.CopyComplete
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\obj\Debug\ProjekatBanka.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\obj\Debug\ProjekatBanka.pdb
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Data.Entity.Design.Extensibility.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Logging.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Options.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Identity.Client.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Buffers.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Collections.Immutable.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.ComponentModel.Annotations.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Memory.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Numerics.Vectors.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.AspNet.Scaffolding.12.0.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\EnvDTE.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\VSLangProj.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\EnvDTE80.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.Shell.Design.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\stdole.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.IO.Pipelines.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Threading.Tasks.Dataflow.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Build.Framework.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.MSXML.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Logging.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Options.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.Identity.Client.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Buffers.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Collections.Immutable.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Memory.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Numerics.Vectors.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\Microsoft.AspNet.Scaffolding.12.0.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\de\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\es\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\fr\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\it\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\ja\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\ko\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\ru\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\zh-Hans\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\zh-Hant\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\EntityFramework.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\EntityFramework.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\PagedList.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\PagedList.Mvc.dll
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\PagedList.xml
+C:\Users\HP\source\repos\ProjekatBanka\ProjekatBanka\bin\PagedList.Mvc.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\ProjekatBanka.dll.config
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\ProjekatBanka.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\ProjekatBanka.pdb
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Security.Claims.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\EntityFramework.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Data.Entity.Design.Extensibility.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\PagedList.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\PagedList.Mvc.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Buffers.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.ComponentModel.Annotations.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Memory.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\WebGrease.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.AspNet.Scaffolding.12.0.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\EnvDTE.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\VSLangProj.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\EnvDTE80.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.Shell.Design.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\stdole.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.IO.Pipelines.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Threading.Tasks.Dataflow.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Build.Framework.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.MSXML.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\EntityFramework.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Logging.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Options.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.Identity.Client.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\PagedList.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\PagedList.Mvc.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Buffers.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Collections.Immutable.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Memory.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\Microsoft.AspNet.Scaffolding.12.0.xml
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\de\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\es\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\fr\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\it\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\ja\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\ko\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\ru\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\zh-Hans\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\zh-Hant\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\obj\Debug\ProjekatBanka.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\obj\Debug\ProjekatBanka.csproj.CopyComplete
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\obj\Debug\ProjekatBanka.dll
+C:\Users\HP\Desktop\PPP projekat\ProjekatBanka\ProjekatBanka\obj\Debug\ProjekatBanka.pdb
